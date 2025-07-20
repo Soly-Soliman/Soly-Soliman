@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Soly-Soliman
+- 👋 Hi, I’m Muhamed Suliman
 - 👀 I’m interested in Data Engineering / Data Sience 
 - 🌱 I’m currently learning Sql / Python  / SSIS / SSAS /SSRS / POWER PI   / Inofrmatica Power Center 
 <!---
